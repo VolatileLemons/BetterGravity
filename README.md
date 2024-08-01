@@ -2,7 +2,7 @@
 
 ![Orbit Preview](https://live.staticflickr.com/65535/53894549401_28550184a9_h.jpg)
 
-![Editor Preview](https://live.staticflickr.com/65535/53894793588_99f644b2b3_h.jpg)
+https://www.youtube.com/embed/-kKPgeS99N8
 
-<video src='https://youtu.be/-kKPgeS99N8' width=180/>
+![Editor Preview](https://live.staticflickr.com/65535/53894793588_99f644b2b3_h.jpg)
 
